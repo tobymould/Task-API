@@ -6,7 +6,7 @@ POST http://localhost:3000/subscribers
 Content-Type: application/json 
 
 {
-  "name": "amazingperson",
+  "name": "amazingperson1",
   "subscribedToChannel": "Web Dev Simplified"
 }
 
